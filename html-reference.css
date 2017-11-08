@@ -6,3 +6,19 @@ body {
 .etitles {
   background-color: powderblue;
 }
+
+.reftable {
+  text-align: center;
+  border-collapse: collapse;
+}
+
+/* ref table headings */
+.refh th {
+  border: 1px solid black;
+  background-color: powderblue;
+}
+
+/* ref table data */
+.refd td {
+  border: 1px solid black;
+}
