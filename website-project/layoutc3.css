@@ -56,6 +56,7 @@ body {
     width: 50%;
     text-align: center;
 }
+/* text align center not working for now??*/
 
 /* Clear floats after the columns */
 .row:after {
