@@ -37,7 +37,7 @@ body {
 
 /* indicate active page on nav */
 .active {
-    background-color: #4CAF50;
+    background-color: dodgerblue;
 }
 
 /* A - Create three unequal columns that floats next to each other */
