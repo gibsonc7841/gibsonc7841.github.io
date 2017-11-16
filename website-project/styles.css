@@ -18,6 +18,7 @@ img {
 .majtable {
   text-align: center;
   border-collapse: collapse;
+  margin: auto;
 }
 
 /* major table headings */
